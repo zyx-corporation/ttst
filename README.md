@@ -26,6 +26,19 @@ The theory suggests these rhythms were internalized into biological systems, for
 - Neural oscillations
 - Cellular timing mechanisms
 
+## 📜 ライセンス (License)
+
+本プロジェクトは、**デュアルライセンス**モデルを採用しています。
+
+1.  **AGPLv3 (Community License)**: コミュニティによるオープンな開発を促進するためのライセンスです。本ソフトウェアをネットワークサービスとして利用する場合、AGPLの条項に基づき、改変したソースコードを公開する義務が生じます。詳細は[LICENSE](./LICENSE)ファイルを参照してください。
+
+2.  **商用ライセンス (Commercial License)**: AGPLの公開義務を避け、本技術を独自のクローズドな商用製品に組み込みたい企業向けのライセンスです。商用ライセンスに関するお問い合わせは、ZYX Corp. ([contact@zyxcorp.jp](mailto:contact@zyxcorp.jp)) までご連絡ください。
+
+## ⚖️ 倫理規定 (Ethical Standard)
+
+私たちは、この技術が平和的かつ人道的な目的のために利用されることを強く望みます。全てのコントリビューターとユーザーは、私たちの[**倫理規範 (ETHICS.md)**](./ETHICS.md)を尊重することが期待されます。
+
+
 ## 🚀 Quick Start
 
 ```bash
