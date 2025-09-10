@@ -1,8 +1,9 @@
 # TTST - Tidal-Thermal Synchronization Theory
 
-[![DOI](https://zenodo.org/badge/DOI/10.1101/2025.01.20.XXXXXX.svg)](https://doi.org/10.1101/2025.01.20.XXXXXX)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
+[![CLA: Required](https://img.shields.io/badge/CLA-Required-brightgreen.svg)](./CONTRIBUTING.md)
+[![Ethical Standard](https://img.shields.io/badge/Ethical%20Standard-In%20Place-lightgrey.svg)](./ETHICS.md)
+
 
 ## Environmental Rhythms as Drivers of Early Life Evolution
 
