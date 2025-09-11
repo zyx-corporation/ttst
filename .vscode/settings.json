@@ -1,0 +1,25 @@
+{
+    "python-envs.defaultEnvManager": "ms-python.python:conda",
+    "python-envs.defaultPackageManager": "ms-python.python:conda",
+    "python-envs.pythonProjects": [],
+    "cSpell.words": [
+        "cmap",
+        "colorbar",
+        "contourf",
+        "edgecolor",
+        "figsize",
+        "fontsize",
+        "fontweight",
+        "markersize",
+        "meshgrid",
+        "randn",
+        "sharex",
+        "suptitle",
+        "TTST",
+        "viridis",
+        "xlabel",
+        "xlim",
+        "ylabel",
+        "ylim"
+    ]
+}

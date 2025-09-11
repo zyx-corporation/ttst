@@ -1,36 +1,41 @@
-# Ethical Standard for the NoPC/Resonanceverse Project
 
-## 1. 私たちの理念 (Our Philosophy)
 
-NoPC/Resonanceverseプロジェクトは、技術が人類の相互理解を深め、創造性を拡張し、社会全体の幸福に貢献すると信じて開発されています。私たちは、AIが単なるツールではなく、社会と相互作用するパートナーとなり得ると考えています。
+# Ethical Standard for the TTST Project
 
-この信念に基づき、私たちは本プロジェクトに関わる全ての人が尊重すべき倫理的な規範をここに定めます。
+## 1. Our Philosophy
 
-## 2. 利用に関する倫理的要請 (Ethical Use Request)
+The TTST project is developed with the belief that science should deepen mutual understanding among humanity, expand creativity, and contribute to the well-being of society as a whole.
 
-本プロジェクトのAGPLライセンス版を利用するすべての個人および組織に対し、私たちは以下の目的での利用を行わないよう、社会的な規範として強く要請します。
+Based on this belief, we hereby establish the ethical standards that everyone involved in this project should respect.
 
-* **軍事目的での利用**: 致死性自律兵器システム（LAWS）を含む、いかなる軍事・兵器システムへの直接的・間接的な利用。
-* **人権抑圧目的での利用**: 監視、差別、プライバシーの侵害など、国際的に認められた人権を抑圧、あるいは侵害する目的での利用。
-* **過剰な搾取目的での利用**: 不公正な労働慣行、依存性の高いサービスの提供、情報格差を利用した搾取など、人間の尊厳を損なう商業的・非商業的な活動での利用。
+## 2. Ethical Use Request
 
-この要請は、AGPLライセンスの法的条項とは独立した、私たちのプロジェクトコミュニティが共有する**社会的契約**です。私たちは、この価値観に賛同する方々とのオープンな協力を望んでいます。
+We strongly request, as a social norm, that all individuals and organizations using the AGPL-licensed version of this project refrain from the following uses:
 
-## 3. 商用ライセンスにおける法的拘束力 (Legally Binding in Commercial License)
+* **Misuse of Life Manipulation**: Application to synthetic biology without ethical consideration
+* **Pseudoscientific Claims**: Use for claims lacking scientific basis
+* **Environmental Destruction**: Application intended to harm the Earth's environment
+* **Military Purposes**: Direct or indirect use in any military or weapon systems, including lethal autonomous weapon systems (LAWS)
+* **Human Rights Oppression**: Use for surveillance, discrimination, invasion of privacy, or any purpose that suppresses or violates internationally recognized human rights
+* **Excessive Exploitation**: Use in unfair labor practices, provision of highly addictive services, exploitation based on information disparity, or any commercial/non-commercial activity that undermines human dignity
 
-上記の倫理規定は、本プロジェクトの**商用ライセンスにおいては、法的拘束力を持つ契約条項として組み込まれます。**
+This request is a **social contract** shared by our project community, independent of the legal terms of the AGPL license. We seek open collaboration with those who agree with these values.
 
-商用ライセンスを取得する企業は、これらの利用制限を遵守することに法的に合意するものとします。契約違反が確認された場合、ライセンスの剥奪を含む然るべき措置が講じられます。
+## 3. Legally Binding in Commercial License
 
-これにより、私たちは商業活動においても、プロジェクトの倫理的な一貫性を確保します。
+The above ethical standards are incorporated as legally binding contractual clauses in the **commercial license** of this project.
 
-## 4. 貢献者への期待 (Expectations for Contributors)
+Companies obtaining a commercial license must legally agree to comply with these usage restrictions. In case of breach of contract, appropriate measures including license revocation will be taken.
 
-本プロジェクトへの貢献者は、この倫理規範に賛同しているものとみなされます。私たちは、この規範に反する機能の提案や実装を受け入れません。
+This ensures ethical consistency in commercial activities as well.
+
+## 4. Expectations for Contributors
+
+Contributors to this project are deemed to agree with this ethical standard. We do not accept proposals or implementations of features that violate this standard. Scientific integrity and constructive discussion are expected.
 
 ---
 
-**技術は価値中立ではありません。私たちは、その力がより良い未来のために使われるよう、責任ある選択を行います。**
+**Science is not value-neutral. We make responsible choices to ensure its power is used for a better future.**
 
-**最終更新日**: 2025年9月10日
+**Last updated**: September 10, 2025
 **ZYX Corp. | Artificial Sapience Lab**

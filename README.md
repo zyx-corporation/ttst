@@ -26,17 +26,19 @@ The theory suggests these rhythms were internalized into biological systems, for
 - Neural oscillations
 - Cellular timing mechanisms
 
-## 📜 ライセンス (License)
 
-本プロジェクトは、**デュアルライセンス**モデルを採用しています。
+## 📜 License
 
-1.  **AGPLv3 (Community License)**: コミュニティによるオープンな開発を促進するためのライセンスです。本ソフトウェアをネットワークサービスとして利用する場合、AGPLの条項に基づき、改変したソースコードを公開する義務が生じます。詳細は[LICENSE](./LICENSE)ファイルを参照してください。
+This project adopts a **dual license** model:
 
-2.  **商用ライセンス (Commercial License)**: AGPLの公開義務を避け、本技術を独自のクローズドな商用製品に組み込みたい企業向けのライセンスです。商用ライセンスに関するお問い合わせは、ZYX Corp. ([contact@zyxcorp.jp](mailto:contact@zyxcorp.jp)) までご連絡ください。
+1.  **AGPLv3 (Community License)**: This license promotes open development by the community. If you use this software as a network service, you are required to publish any modified source code under the terms of the AGPL. See the [LICENSE](./LICENSE) file for details.
 
-## ⚖️ 倫理規定 (Ethical Standard)
+2.  **Commercial License**: For companies wishing to avoid the AGPL disclosure requirement and incorporate this technology into proprietary commercial products. For commercial license inquiries, please contact ZYX Corp. ([contact@zyxcorp.jp](mailto:contact@zyxcorp.jp)).
 
-私たちは、この技術が平和的かつ人道的な目的のために利用されることを強く望みます。全てのコントリビューターとユーザーは、私たちの[**倫理規範 (ETHICS.md)**](./ETHICS.md)を尊重することが期待されます。
+
+## ⚖️ Ethical Standard
+
+We strongly hope that this technology will be used for peaceful and humanitarian purposes. All contributors and users are expected to respect our [**Ethical Standard (ETHICS.md)**](./ETHICS.md).
 
 
 ## 🚀 Quick Start
@@ -165,13 +167,14 @@ We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guid
 
 ## 📧 Contact
 
-**Tomoyuki Kano**  
-Email: tomyuk@zyxcorp.jp  
+**Tomoyuki Kano**
+Email: tomyuk@zyxcorp.jp
 ORCID: [0009-0004-8213-4631](https://orcid.org/0009-0004-8213-4631)
+
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
