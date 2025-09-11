@@ -1,5 +1,6 @@
 # TTST - 潮汐・熱同期理論
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo/10.5281/zenodo.17096536.svg)](https://doi.org/10.5281/zenodo.17096536)
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 [![CLA: Required](https://img.shields.io/badge/CLA-Required-brightgreen.svg)](./CONTRIBUTING.md)
 [![Ethical Standard](https://img.shields.io/badge/Ethical%20Standard-In%20Place-lightgrey.svg)](./ETHICS.md)
@@ -10,7 +11,9 @@
 
 ## 📄 プレプリント
 
-**加納智之 (2025).** 潮汐・熱同期理論: 環境リズムによる初期生命進化の駆動. *bioRxiv*. [doi:10.1101/2025.01.20.XXXXXX](https://www.biorxiv.org/content/10.1101/2025.01.20.XXXXXX)
+**加納智之 (2025).** 潮汐・熱同期理論: 環境リズムによる初期生命進化の駆動.
+[doi:10.5281/zenodo.17096536](https://zenodo.org/badge/DOI/10.5281/zenodo/10.5281/zenodo.17096536.svg)
+
 
 ## 🌟 キーコンセプト
 
