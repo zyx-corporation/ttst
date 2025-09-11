@@ -61,7 +61,7 @@ TTSTは、初期生命が3階層の環境リズムの下で進化したと提案
 ```
 ttst/
 ├── README.md                 # 本ファイル
-├── LICENSE                   # MITライセンス
+├── LICENSE                   # AGPLv3のライセンス
 ├── requirements.txt          # Python依存関係
 ├── data/                     # データファイル
 │   ├── early_earth_params.csv
@@ -139,24 +139,24 @@ print(f"Optimal structure: {optimal}")  # 期待値: 9+2
 # 論文図をすべて再現
 python reproduce_paper.py
 
-# テスト実行
-pytest tests/
 ```
 
 ## 📚 関連文献
 
 ### 公開済み
+
 - 加納智之 (2025). 潮汐・熱同期理論. *bioRxiv*.
 
 ### 準備中
+
 - 加納智之 (2025). 9+2構造の必然性.（準備中）
-- 加納智之 (2025). パルス医学：TTSTの治療応用.（準備中）
 
 ## 🤝 コントリビューション
 
 貢献歓迎！ガイドラインは[CONTRIBUTING.md](CONTRIBUTING.md)参照。
 
 ### 貢献方法
+
 1. リポジトリをフォーク
 2. フィーチャーブランチ作成（`git checkout -b feature/AmazingFeature`）
 3. 変更をコミット（`git commit -m 'Add AmazingFeature'`）
@@ -166,12 +166,11 @@ pytest tests/
 ## 📧 連絡先
 
 **加納智之**
-Email: tomyuk@zyxcorp.jp
-ORCID: [0009-0004-8213-4631](https://orcid.org/0009-0004-8213-4631)
 
-## 📄 ライセンス
-
-本プロジェクトはMITライセンスです。詳細は[LICENSE](LICENSE)参照。
+- Email: <tomyuk@zyxcorp.jp>
+- GitHub: [tomyuk](https://github.com/tomyuk)
+- Twitter: [@tomyuk](https://twitter.com/tomyuk)
+- note: [tomyukz](https://note.com/tomyukz)
 
 ## 🙏 謝辞
 

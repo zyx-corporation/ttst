@@ -1,6 +1,7 @@
 # TTST - Tidal-Thermal Synchronization Theory
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo/10.5281/zenodo.17096536.svg)](https://doi.org/10.5281/zenodo.17096536)
+
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 [![CLA: Required](https://img.shields.io/badge/CLA-Required-brightgreen.svg)](./CONTRIBUTING.md)
 [![Ethical Standard](https://img.shields.io/badge/Ethical%20Standard-In%20Place-lightgrey.svg)](./ETHICS.md)
@@ -150,17 +151,19 @@ pytest tests/
 ## 📚 Related Publications
 
 ### Published
+
 - Kano, T. (2025). Tidal-Thermal Synchronization Theory. *bioRxiv*.
 
 ### In Preparation
+
 - Kano, T. (2025). The Emergent Inevitability of 9+2 Architecture. *(in preparation)*
-- Kano, T. (2025). Pulsation Medicine: Therapeutic Applications of TTST. *(in preparation)*
 
 ## 🤝 Contributing
 
 We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ### How to Contribute
+
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
 3. Commit your changes (`git commit -m 'Add AmazingFeature'`)
@@ -170,13 +173,13 @@ We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guid
 ## 📧 Contact
 
 **Tomoyuki Kano**
-Email: tomyuk@zyxcorp.jp
+
+- Email: <tomyuk@zyxcorp.jp>
+- GitHub: [tomyuk](https://github.com/tomyuk)
+- Twitter: [@tomyuk](https://twitter.com/tomyuk)
+- note: [tomyukz](https://note.com/tomyukz)
+
 ORCID: [0009-0004-8213-4631](https://orcid.org/0009-0004-8213-4631)
-
-
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
