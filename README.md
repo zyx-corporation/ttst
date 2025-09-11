@@ -1,6 +1,6 @@
 # TTST - Tidal-Thermal Synchronization Theory
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo/10.5281/zenodo.17096536.svg)](https://doi.org/10.5281/zenodo.17096536)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17096536.svg)](https://doi.org/10.5281/zenodo.17096536)
 
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 [![CLA: Required](https://img.shields.io/badge/CLA-Required-brightgreen.svg)](./CONTRIBUTING.md)
@@ -118,23 +118,11 @@ sync_index = model.calculate_synchronization()
 print(f"Synchronization Index: {sync_index:.3f}")
 ```
 
-### 9+2 Structure Analysis (Coming Soon)
-
-```python
-from src.structure_evolution import CiliaryStructure
-
-# Simulate evolution of ciliary structures
-structures = CiliaryStructure.evolve_possibilities()
-optimal = structures.find_optimal(constraints=['physical', 'environmental', 'biochemical'])
-print(f"Optimal structure: {optimal}")  # Expected: 9+2
-```
-
 ## 📊 Key Results
 
 1. **Environmental rhythms create Arnold tongues** - regions of enhanced synchronization
-2. **9+2 structure emerges as inevitable** - convergence of multiple constraints
-3. **Snowball Earth events** - selective disruption drives evolution
-4. **Modern implications** - circadian disruption as rhythm dissonance
+2. **Snowball Earth events** - selective disruption drives evolution
+3. **Modern implications** - circadian disruption as rhythm dissonance
 
 ## 🔬 Reproducibility
 
@@ -153,10 +141,6 @@ pytest tests/
 ### Published
 
 - Kano, T. (2025). Tidal-Thermal Synchronization Theory. *bioRxiv*.
-
-### In Preparation
-
-- Kano, T. (2025). The Emergent Inevitability of 9+2 Architecture. *(in preparation)*
 
 ## 🤝 Contributing
 

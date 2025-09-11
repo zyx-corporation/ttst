@@ -1,6 +1,6 @@
 # TTST - 潮汐・熱同期理論
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo/10.5281/zenodo.17096536.svg)](https://doi.org/10.5281/zenodo.17096536)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17096536.svg)](https://doi.org/10.5281/zenodo.17096536)
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 [![CLA: Required](https://img.shields.io/badge/CLA-Required-brightgreen.svg)](./CONTRIBUTING.md)
 [![Ethical Standard](https://img.shields.io/badge/Ethical%20Standard-In%20Place-lightgrey.svg)](./ETHICS.md)
@@ -113,17 +113,6 @@ sync_index = model.calculate_synchronization()
 print(f"Synchronization Index: {sync_index:.3f}")
 ```
 
-### 9+2構造解析（近日公開）
-
-```python
-from src.structure_evolution import CiliaryStructure
-
-# 繊毛構造の進化をシミュレート
-structures = CiliaryStructure.evolve_possibilities()
-optimal = structures.find_optimal(constraints=['physical', 'environmental', 'biochemical'])
-print(f"Optimal structure: {optimal}")  # 期待値: 9+2
-```
-
 ## 📊 主な結果
 
 1. 環境リズムがArnold tongue（同期強化領域）を形成
@@ -146,10 +135,6 @@ python reproduce_paper.py
 ### 公開済み
 
 - 加納智之 (2025). 潮汐・熱同期理論. *bioRxiv*.
-
-### 準備中
-
-- 加納智之 (2025). 9+2構造の必然性.（準備中）
 
 ## 🤝 コントリビューション
 
