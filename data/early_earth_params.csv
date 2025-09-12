@@ -1,0 +1,19 @@
+parameter,value,unit,description,reference
+moon_distance_early,60000,km,Early Moon distance (4 Ga),Williams 2000
+moon_distance_current,384400,km,Current Moon distance,NASA
+tidal_period_early,10.5,hours,Early tidal period (4 Ga),Daher et al. 2021
+tidal_period_current,12.42,hours,Current tidal period,NOAA
+day_length_early,10,hours,Early Earth rotation period (4 Ga),Williams 2000
+day_length_current,24,hours,Current Earth rotation period,IAU
+thermal_period_min,0.1,hours,Minimum thermal oscillation period,White et al. 2020
+thermal_period_max,2.0,hours,Maximum thermal oscillation period,Barge et al. 2019
+thermal_amplitude_early,50,celsius,Early hydrothermal temperature variation,White et al. 2020
+thermal_amplitude_current,20,celsius,Current hydrothermal temperature variation,NOAA
+ocean_depth_early,3000,meters,Early ocean depth estimate,Lyons et al. 2014
+ocean_depth_current,3800,meters,Current average ocean depth,NOAA
+atmospheric_pressure_early,0.5,bar,Early atmospheric pressure,Lyons et al. 2014
+atmospheric_pressure_current,1.0,bar,Current atmospheric pressure,Standard
+snowball_duration,10,million_years,Typical Snowball Earth duration,Hoffman & Schrag 2002
+snowball_ice_thickness,1000,meters,Maximum ice thickness during Snowball,Hoffman & Schrag 2002
+cambrian_explosion_start,541,million_years_ago,Start of Cambrian explosion,Carroll 2005
+life_origin_estimate,3800,million_years_ago,Estimated origin of life,Lyons et al. 2014

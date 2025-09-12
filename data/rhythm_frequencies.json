@@ -1,0 +1,98 @@
+{
+  "thermal_rhythms": {
+    "fundamental": {
+      "frequency_hz": 0.00055556,
+      "period_hours": 0.5,
+      "amplitude": 1.0,
+      "description": "Primary thermal oscillation from hydrothermal vents"
+    },
+    "harmonics": [
+      {
+        "frequency_hz": 0.00111111,
+        "period_hours": 0.25,
+        "amplitude": 0.3,
+        "description": "Second harmonic - convection cells"
+      },
+      {
+        "frequency_hz": 0.00027778,
+        "period_hours": 1.0,
+        "amplitude": 0.5,
+        "description": "Subharmonic - large-scale mixing"
+      }
+    ],
+    "stochastic_component": {
+      "noise_level": 0.2,
+      "correlation_time_hours": 0.1,
+      "distribution": "gaussian"
+    }
+  },
+  "tidal_rhythms": {
+    "early_earth": {
+      "frequency_hz": 0.0000265,
+      "period_hours": 10.5,
+      "amplitude": 3.5,
+      "description": "Early Earth tidal period (4 Ga)"
+    },
+    "current_earth": {
+      "frequency_hz": 0.0000224,
+      "period_hours": 12.42,
+      "amplitude": 1.0,
+      "description": "Current semidiurnal tide"
+    },
+    "nonlinear_components": {
+      "M2": {
+        "frequency_hz": 0.0000224,
+        "amplitude": 1.0,
+        "description": "Principal lunar semidiurnal"
+      },
+      "S2": {
+        "frequency_hz": 0.0000231,
+        "amplitude": 0.46,
+        "description": "Principal solar semidiurnal"
+      },
+      "N2": {
+        "frequency_hz": 0.0000215,
+        "amplitude": 0.19,
+        "description": "Lunar elliptic semidiurnal"
+      }
+    }
+  },
+  "solar_rhythms": {
+    "early_earth": {
+      "frequency_hz": 0.0000278,
+      "period_hours": 10.0,
+      "amplitude": 1.0,
+      "description": "Early Earth day length (4 Ga)"
+    },
+    "current_earth": {
+      "frequency_hz": 0.0000116,
+      "period_hours": 24.0,
+      "amplitude": 1.0,
+      "description": "Current solar day"
+    },
+    "transition_sharpness": 10.0,
+    "dawn_dusk_duration_hours": 0.5
+  },
+  "coupling_parameters": {
+    "thermal_tidal_coupling": 0.3,
+    "tidal_solar_coupling": 0.5,
+    "solar_thermal_coupling": 0.2,
+    "biological_feedback_strength": 0.1
+  },
+  "synchronization_indices": {
+    "arnold_tongue_width": 0.1,
+    "critical_coupling_strength": 0.25,
+    "resonance_ratios": [
+      {"ratio": "24:1", "strength": 0.9},
+      {"ratio": "15:1", "strength": 0.7},
+      {"ratio": "10:1", "strength": 0.8},
+      {"ratio": "8:1", "strength": 0.6}
+    ]
+  },
+  "snowball_earth_modulation": {
+    "solar_reduction": 0.0,
+    "tidal_persistence": 0.8,
+    "thermal_persistence": 1.0,
+    "duration_million_years": 10
+  }
+}
