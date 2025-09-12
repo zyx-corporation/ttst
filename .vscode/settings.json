@@ -10,8 +10,11 @@
         "figsize",
         "fontsize",
         "fontweight",
+        "ipynb",
         "markersize",
         "meshgrid",
+        "numpy",
+        "pytest",
         "randn",
         "sharex",
         "suptitle",
@@ -20,6 +23,7 @@
         "xlabel",
         "xlim",
         "ylabel",
-        "ylim"
+        "ylim",
+        "zenodo"
     ]
 }

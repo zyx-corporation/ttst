@@ -1,11 +1,8 @@
 # TTST - Tidal-Thermal Synchronization Theory
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17096536.svg)](https://doi.org/10.5281/zenodo.17096536)
-
-[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
-[![CLA: Required](https://img.shields.io/badge/CLA-Required-brightgreen.svg)](./CONTRIBUTING.md)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Ethical Standard](https://img.shields.io/badge/Ethical%20Standard-In%20Place-lightgrey.svg)](./ETHICS.md)
-
 
 ## Environmental Rhythms as Drivers of Early Life Evolution
 
@@ -14,7 +11,7 @@ This repository contains the mathematical models, simulations, and analysis code
 ## 📄 Preprint
 
 **Kano, T. (2025).** Tidal-Thermal Synchronization Theory: Environmental Rhythms as Drivers of Early Life Evolution.
-[doi:10.5281/zenodo.17096536](https://zenodo.org/badge/DOI/10.5281/zenodo/10.5281/zenodo.17096536.svg)
+[doi:10.5281/zenodo.17096536](https://doi.org/10.5281/zenodo.17096536)
 
 ## 🌟 Key Concepts
 
@@ -25,24 +22,25 @@ TTST proposes that early life evolved under three hierarchical environmental rhy
 3. **☀️ Solar Rhythm** (24 hours): Day-night cycle from Earth's rotation
 
 The theory suggests these rhythms were internalized into biological systems, forming the basis for:
+
 - Circulatory systems
 - Neural oscillations
 - Cellular timing mechanisms
 
-
 ## 📜 License
 
-This project adopts a **dual license** model:
-
-1.  **AGPLv3 (Community License)**: This license promotes open development by the community. If you use this software as a network service, you are required to publish any modified source code under the terms of the AGPL. See the [LICENSE](./LICENSE) file for details.
-
-2.  **Commercial License**: For companies wishing to avoid the AGPL disclosure requirement and incorporate this technology into proprietary commercial products. For commercial license inquiries, please contact ZYX Corp. ([contact@zyxcorp.jp](mailto:contact@zyxcorp.jp)).
-
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## ⚖️ Ethical Standard
 
-We strongly hope that this technology will be used for peaceful and humanitarian purposes. All contributors and users are expected to respect our [**Ethical Standard (ETHICS.md)**](./ETHICS.md).
+We encourage responsible use of this research.
+See [ETHICS.md](ETHICS.md) for our ethical guidelines.
 
+## Disclosure
+
+- TTST is independent theoretical research
+- No commercial applications currently planned
+- Code shared for scientific reproducibility
 
 ## 🚀 Quick Start
 
@@ -63,9 +61,10 @@ python src/generate_figures.py
 
 ## 📂 Repository Structure
 
-```
+```text
 ttst/
 ├── README.md                 # This file
+├── ETHICS.md                 # Ethical Standard
 ├── LICENSE                   # MIT License
 ├── requirements.txt          # Python dependencies
 ├── data/                     # Data files
@@ -136,11 +135,18 @@ python reproduce_paper.py
 pytest tests/
 ```
 
+## 🚀 Status
+
+⚠️ **Code implementation in progress**
+
+The theoretical framework and mathematical models are described in the paper.
+Simulation code will be added incrementally.
+
 ## 📚 Related Publications
 
 ### Published
 
-- Kano, T. (2025). Tidal-Thermal Synchronization Theory. *bioRxiv*.
+- Kano, T. (2025). Tidal-Thermal Synchronization Theory. [doi:10.5281/zenodo.17096536](https://zenodo.org/badge/DOI/10.5281/zenodo/10.5281/zenodo.17096536.svg)
 
 ## 🤝 Contributing
 
@@ -176,12 +182,13 @@ ORCID: [0009-0004-8213-4631](https://orcid.org/0009-0004-8213-4631)
 If you use this code or theory in your research, please cite:
 
 ```bibtex
-@article{kano2025ttst,
+@misc{kano2025ttst,
   title={Tidal-Thermal Synchronization Theory: Environmental Rhythms as Drivers of Early Life Evolution},
   author={Kano, Tomoyuki},
-  journal={bioRxiv},
   year={2025},
-  doi={10.1101/2025.01.20.XXXXXX}
+  publisher={Zenodo},
+  doi={10.5281/zenodo.17096536},
+  url={https://doi.org/10.5281/zenodo.17096536}
 }
 ```
 
